@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">I'm Beatriz,  a tech enthusiast and lifelong learner!</h2>
 
+
 - 🤖 I'm diving into the world of Artificial Intelligence and Machine Learning!
 
 ### Experiences
@@ -10,9 +11,7 @@
 - 💪 Member - UNIFAPI “Girls in Computing” Project
 
 ### Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
 ### Connect with me
 <div>
