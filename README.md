@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python** and **Django Framework**.
 
 ### Experiences
-- 💻 Intern of Digital Transformation Team - Artificial Intelligence Department of the State of Piauí
+- 💻 Intern of Digital Transformation Team - Secretaria de Inteligência Artificial do Estado do Piauí
 - 📚 Computer Science student - Centro Universitário do Piauí
 - 🎮 Member - Research Project: "GameDev" for students
 - 💪 Member - UNIFAPI “Girls in Computing” Project
