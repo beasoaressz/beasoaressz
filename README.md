@@ -23,6 +23,4 @@
 </div>
 
 
-![Snake animation](https://github.com/beasoaressz/beasoaressz/blob/output/github-contribution-grid-snake.svg)
-
 
