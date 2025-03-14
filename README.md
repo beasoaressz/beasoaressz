@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm Beatriz,  a tech enthusiast and lifelong learner!</h2>
+<h2 align="center">My name is Beatriz, and I'm a Full-Stack junior!</h2>
 
 
 - 🤖 I'm diving into the world of Artificial Intelligence and Machine Learning!
