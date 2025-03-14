@@ -3,7 +3,6 @@
 
 
 - 🤖 I'm diving into the world of Artificial Intelligence and Machine Learning!
-- 🌱 I’m currently learning **Python** and **Django Framework**.
 
 ### Experiences
 - 💻 Intern of Digital Transformation Team - Secretaria de Inteligência Artificial do Estado do Piauí
