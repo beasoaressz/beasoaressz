@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">My name is Beatriz, and I'm a Full-Stack developer junior!</h2>
+<h2 align="center">My name is Beatriz!</h2>
 
 
 - 🤖 I'm diving into the world of Artificial Intelligence and Machine Learning!
 
 ### Experiences
-- 💻 Intern of Digital Transformation Team - Secretaria de Inteligência Artificial do Estado do Piauí
 - 📚 Computer Science student - Centro Universitário do Piauí
 - 🎮 Member - Research Project: "GameDev" for students
 - 💪 Member - UNIFAPI “Girls in Computing” Project
