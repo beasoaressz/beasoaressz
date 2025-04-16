@@ -2,7 +2,11 @@
 <h2 align="center">My name is Beatriz!</h2>
 
 
-- 🤖 I'm diving into the world of Artificial Intelligence and Machine Learning!
+- 👩‍💻 Full-Stack Developer passionate about building real-world solutions.
+- 🚀 Working with Python, JavaScript, Django, React, and MySQL.
+- 🧠 Currently diving into Artificial Intelligence and Machine Learning.
+- 🛠️ Familiar with Agile practices (Scrum) and automated testing.
+
 
 ### Experiences
 - 📚 Computer Science student - Centro Universitário do Piauí
