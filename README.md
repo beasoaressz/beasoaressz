@@ -1,7 +1,9 @@
-<h1>Hello, I'm Beatriz</h1>
+<h1>Hi there👋 My name is Beatriz!</h1>
+
+I am a full stack developer who is passionate about technology 👩🏽‍💻
+I enjoy building innovative and user-friendly applications 
 
 
-I work as a full stack developer
 
 
 
