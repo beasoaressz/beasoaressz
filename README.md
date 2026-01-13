@@ -1,6 +1,6 @@
-<h1>Hi there! My name is Beatriz!</h1>
+<h2>Hi there! My name is Beatriz!</h2>
 
-<h3>I am a full stack developer who is passionate about technology 👩🏽‍💻</h3>
+<h3>I am a Software Developer who is passionate about technology 👩🏽‍💻</h3>
 
 ---
 
