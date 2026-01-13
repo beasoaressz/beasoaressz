@@ -1,8 +1,8 @@
 <h2>Hi there! My name is Beatriz!</h2>
 
-<h3>I'm a Software Developer who is passionate about technology 👩🏽‍💻</h3>
+<h3>I'm a Software Developer who is passionate about technology 👩🏽‍💻</h3> <br>
 
----
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Badge JavaScript" />
@@ -15,4 +15,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3" />
 </p>
 
-- 🔗 Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br>
+- Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br>
