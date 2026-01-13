@@ -1,9 +1,5 @@
 <h2>Hi there! My name is Beatriz!</h2>
 
-I'm a Software Developer who is passionate about technology 👩🏽‍💻 <br>
-
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Badge JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Badge React" />
@@ -13,6 +9,12 @@ I'm a Software Developer who is passionate about technology 👩🏽‍💻 <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Badge Django" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Badge HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3" />
-</p>
+</p> <br>
+
+I'm a Software Developer who is passionate about technology 👩🏽‍💻 <br>
+
+
+
+
 
 - Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br>
