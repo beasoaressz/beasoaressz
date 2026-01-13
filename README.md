@@ -15,5 +15,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3" />
 </p>
 
-- 🔗 Follow me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br>
-- 📫 Send me an email: [beatrizsoares.dev@gmail.com](mailto:beatrizsoares.dev@gmail.com) <br>
+- 🔗 Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br>
