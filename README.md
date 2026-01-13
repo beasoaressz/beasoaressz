@@ -3,7 +3,7 @@
 I'm a Software Developer who is passionate about technology 👩🏽‍💻 <br>
 
 
-- Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br>
+- Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br> <br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Badge JavaScript" />
