@@ -1,4 +1,4 @@
-<h2>Hi there! My name is Beatriz!</h2>
+<h2>Hello! I'm Beatriz</h2>
 
 I'm a Software Developer who is passionate about technology 👩🏽‍💻 <br>
 
