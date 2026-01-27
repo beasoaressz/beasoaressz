@@ -1,6 +1,6 @@
 <h2>Hello! I'm Beatriz</h2>
 
-I'm a Software Developer passionate about building scalable web applications 👩🏽‍💻 <br>
+I'm a Software Developer passionate about technology and web applications 👩🏽‍💻 <br>
 
 
 - Feel free to connect with me: [Beatriz Soares](https://www.linkedin.com/in/beatrizsoaressz) <br> <br>
